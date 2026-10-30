@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+work/
+original/
+session-rearrange-backups/
+*.sqlite*
+*.jsonl*
+manifest.json
+projection.sqlite
